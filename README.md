@@ -1,0 +1,1 @@
+# Implementing-logic-Or-gate-using-Hebbian-learning-algorithm
